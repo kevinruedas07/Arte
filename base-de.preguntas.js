@@ -50,11 +50,11 @@ function LaTeX(code) {
         {
           pregunta: "9 ¿Quién escribió Cien años de soledad?",
           respuesta: "Gabriel García Márquez",
-          distractores: ["Mario Vargas Llosa", "Camilo Jose Cela"],
+          distractores: ["Frida", "Gótico Americano"],
         },
         {
-          pregunta: "10 ¿Quién pinto La noche estrellada?",
-          respuesta: "Vincent van Gogh",
+          pregunta: "10 ¿Cuál es el arte más representativo de Colombia?",
+          respuesta: "Donación Botero",
           distractores: ["Miguel Ángelo", " Velázquez"],
         },
         {
